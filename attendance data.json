@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2026-01-31",
+  "students": [
+    {
+      "id": "ritesh",
+      "name": "Ritesh Kumar Pathak",
+      "roll": 101,
+      "afg": 8008,
+      "batch": "III MBBS · VII TERM · I3",
+      "subjects": [
+        { "id": "med_t",  "name": "Medicine",      "type": "Theory",    "held": 98, "attended": 80 },
+        { "id": "surg_t", "name": "Surgery",        "type": "Theory",    "held": 80, "attended": 61 },
+        { "id": "surg_p", "name": "Surgery",        "type": "Practical", "held": 59, "attended": 40 },
+        { "id": "obg_t",  "name": "OBG",            "type": "Theory",    "held": 96, "attended": 53 },
+        { "id": "obg_p",  "name": "OBG",            "type": "Practical", "held": 81, "attended": 67 },
+        { "id": "paed_t", "name": "Paediatrics",    "type": "Theory",    "held": 64, "attended": 48 },
+        { "id": "paed_p", "name": "Paediatrics",    "type": "Practical", "held": 44, "attended": 24 },
+        { "id": "opth_t", "name": "Ophthalmology",  "type": "Theory",    "held": 75, "attended": 49 },
+        { "id": "opth_p", "name": "Ophthalmology",  "type": "Practical", "held": 20, "attended": 16 },
+        { "id": "ent_t",  "name": "ENT",            "type": "Theory",    "held": 58, "attended": 35 },
+        { "id": "ent_p",  "name": "ENT",            "type": "Practical", "held": 15, "attended": 7  }
+      ]
+    },
+    {
+      "id": "iru",
+      "name": "Iru Raut",
+      "roll": 147,
+      "afg": 8054,
+      "batch": "III MBBS · VII TERM · I3",
+      "subjects": [
+        { "id": "med_t",  "name": "Medicine",      "type": "Theory",    "held": 98, "attended": 85 },
+        { "id": "surg_t", "name": "Surgery",        "type": "Theory",    "held": 80, "attended": 63 },
+        { "id": "surg_p", "name": "Surgery",        "type": "Practical", "held": 84, "attended": 50 },
+        { "id": "obg_t",  "name": "OBG",            "type": "Theory",    "held": 96, "attended": 60 },
+        { "id": "obg_p",  "name": "OBG",            "type": "Practical", "held": 29, "attended": 29 },
+        { "id": "paed_t", "name": "Paediatrics",    "type": "Theory",    "held": 64, "attended": 49 },
+        { "id": "paed_p", "name": "Paediatrics",    "type": "Practical", "held": 44, "attended": 44 },
+        { "id": "opth_t", "name": "Ophthalmology",  "type": "Theory",    "held": 75, "attended": 53 },
+        { "id": "opth_p", "name": "Ophthalmology",  "type": "Practical", "held": 20, "attended": 20 },
+        { "id": "ent_t",  "name": "ENT",            "type": "Theory",    "held": 58, "attended": 44 },
+        { "id": "ent_p",  "name": "ENT",            "type": "Practical", "held": 15, "attended": 16 }
+      ]
+    }
+  ]
+}
